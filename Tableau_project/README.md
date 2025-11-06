@@ -1,5 +1,11 @@
 # 🚗 BMW Sales Dashboard | Tableau Project
 
+![BMW Sales Dashboard](./BMW%20Sales%20Dashboard.png)
+
+### _An Interactive Tableau Data Analytics Project by Kartik Dhoke_
+
+---
+
 ## 📘 Project Overview
 This project presents an **interactive Tableau dashboard** that visualizes BMW’s global sales performance from **2010 to 2024**.  
 It provides insights into sales trends, top-performing models, revenue distribution, and fuel-type preferences — helping stakeholders understand key business drivers and regional performance.
@@ -36,11 +42,6 @@ It provides insights into sales trends, top-performing models, revenue distribut
 
 ---
 
-## 📈 Dashboard Preview
-![BMW Sales Dashboard](./BMW%20Sales%20Dashboard.png)
-
----
-
 ## 👨‍💻 Author
 **Kartik Dhoke**  
 🎓 Electrical Engineer | 📊 Google Certified Data Analyst  
@@ -49,3 +50,4 @@ It provides insights into sales trends, top-performing models, revenue distribut
 
 ---
 ⭐ _“Data is the engine that drives performance — and I love tuning it.”_
+

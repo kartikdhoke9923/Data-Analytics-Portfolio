@@ -1,6 +1,6 @@
 # 🚗 BMW Sales Dashboard | Tableau Project
 
-![BMW Sales Dashboard](./BMW%20Sales%20Dashboard.png)
+[![BMW Sales Dashboard](./BMW%20Sales%20Dashboard.png)](https://public.tableau.com/views/project_tbleau/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### _An Interactive Tableau Data Analytics Project by Kartik Dhoke_
 
@@ -42,6 +42,11 @@ It provides insights into sales trends, top-performing models, revenue distribut
 
 ---
 
+## 🔗 View Live Dashboard
+👉 [Click here to view the interactive Tableau Dashboard](https://public.tableau.com/views/project_tbleau/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## 👨‍💻 Author
 **Kartik Dhoke**  
 🎓 Electrical Engineer | 📊 Google Certified Data Analyst  
@@ -49,5 +54,5 @@ It provides insights into sales trends, top-performing models, revenue distribut
 🔗 [GitHub Portfolio](https://github.com/kartikdhoke9923/Data-Analytics-Portfolio)
 
 ---
-⭐ _“Data is the engine that drives performance — and I love tuning it.”_
 
+⭐ _“Data is the engine that drives performance — and I love tuning it.”_

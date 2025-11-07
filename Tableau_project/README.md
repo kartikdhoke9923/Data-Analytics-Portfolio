@@ -2,6 +2,9 @@
 
 [![BMW Sales Dashboard](./BMW%20Sales%20Dashboard.png)](https://public.tableau.com/views/project_tbleau/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## 🔗 View Live Dashboard
+👉 [Click here to view the interactive Tableau Dashboard](https://public.tableau.com/views/project_tbleau/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### _An Interactive Tableau Data Analytics Project by Kartik Dhoke_
 
 ---
@@ -39,11 +42,6 @@ It provides insights into sales trends, top-performing models, revenue distribut
 - **GitHub** – Version control and portfolio management  
 
 **Dataset:** BMW Global Sales Data (2010–2024)
-
----
-
-## 🔗 View Live Dashboard
-👉 [Click here to view the interactive Tableau Dashboard](https://public.tableau.com/views/project_tbleau/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 

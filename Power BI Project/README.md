@@ -24,4 +24,14 @@ The goal of this project is to create a dynamic and visually clear representatio
 ---
 
 ## Repository Structure
+Power BI Project/
+│
+├── data/
+│ └── mumbai-city-total-electors-2024.csv
+│
+├── dashboard/
+│ └── Mumbai_Electors_2024.pbix
+│
+└── README.md
+
 

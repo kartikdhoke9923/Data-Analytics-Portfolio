@@ -24,6 +24,7 @@ The goal of this project is to create a dynamic and visually clear representatio
 ---
 
 ## Repository Structure
+```bash
 Power BI Project/
 │
 ├── data/

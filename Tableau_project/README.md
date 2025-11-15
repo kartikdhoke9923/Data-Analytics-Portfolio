@@ -1,6 +1,6 @@
 # 🚗 BMW Sales Dashboard | Tableau Project
 
-[![BMW Sales Dashboard](./BMW%20Sales%20Dashboard.png)](https://public.tableau.com/views/project_tbleau/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![BMW Sales Dashboard](/mnt/data/fd193712-3c31-4793-8817-9dc6c2b4d734.png)](https://public.tableau.com/views/project_tbleau/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🔗 View Live Dashboard
 👉 [Click here to view the interactive Tableau Dashboard](https://public.tableau.com/views/project_tbleau/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
